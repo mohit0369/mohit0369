@@ -1,6 +1,7 @@
 ![logo](https://github.com/mohit0369/mohit0369/blob/main/github-header-image%20(1).png)
 <h3 align="center">A Passionate Software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/mohit0369/mohit0369/assets/75832720/94ff790c-00d1-47f4-aae3-dfd34155abad)
+">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
